@@ -1,7 +1,7 @@
 [submodule "lib/dense_flow"]
 	path = lib/dense_flow
 	url = https://github.com/yjxiong/dense_flow
-	branch = opencv-3.1
+	branch=opencv-3.1
 [submodule "lib/caffe_action"]
 	path = lib/caffe-action
 	url = https://github.com/yjxiong/caffe
